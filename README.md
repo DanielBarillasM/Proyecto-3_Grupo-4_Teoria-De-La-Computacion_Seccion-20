@@ -30,8 +30,7 @@
 11. [Estructura del Repositorio](#-estructura-del-repositorio)
 12. [Video de Demostración](#-video-de-demostración)
 13. [Documentación del Proyecto](#-Documentación-del-Proyecto)
-14. [Roadmap](#-roadmap)
-15. [Licencia](#-licencia)
+14. [Licencia](#-licencia)
 
 ---
 
