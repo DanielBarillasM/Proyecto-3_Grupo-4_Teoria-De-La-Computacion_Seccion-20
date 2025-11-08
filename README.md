@@ -31,8 +31,9 @@
 12. [Video de Demostración](#-video-de-demostración)
 13. [Documentación del Proyecto](#-Documentación-del-Proyecto)
 14. [Roadmap](#-roadmap)
-15. [Licencia](#-licencia)
-16. [Referencias](#-referencias)
+15. [Video de Demostración](#-Video-de-Demostración)
+16. [Documentación](#-Documentación-del-Proyecto)
+17. [Licencia](#-licencia)
 
 ---
 
@@ -745,13 +746,13 @@ results = st.session_state.setdefault("results", [])
 
 ---
 
-## 🎥 Video de Demostración
+## Video de Demostración
 
 > **Enlace YouTube (no listado):**
 
 ---
 
-## 📄 Documentación del Proyecto
+## Documentación del Proyecto
 
 > **Enlace: [Documentación.pdf](Documentación.pdf)**
 
