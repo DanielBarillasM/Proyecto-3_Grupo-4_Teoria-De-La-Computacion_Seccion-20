@@ -31,9 +31,7 @@
 12. [Video de Demostración](#-video-de-demostración)
 13. [Documentación del Proyecto](#-Documentación-del-Proyecto)
 14. [Roadmap](#-roadmap)
-15. [Video de Demostración](#-Video-de-Demostración)
-16. [Documentación](#-Documentación-del-Proyecto)
-17. [Licencia](#-licencia)
+15. [Licencia](#-licencia)
 
 ---
 
